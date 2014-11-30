@@ -1,2 +1,3 @@
 // Yes, it's all...
 $("#main-toolbar").css("background","#3C3F41");
+$("#sidebar").css("background","#3C3F41");

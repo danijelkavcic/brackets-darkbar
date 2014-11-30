@@ -7,3 +7,6 @@ I know, I know... was a long and hard project but finally I did it.
 
 
 ![comparision](http://i.imgur.com/BrOhYCb.jpg)
+
+Changes from original:
+- Sidebar has same color as toolbar.
